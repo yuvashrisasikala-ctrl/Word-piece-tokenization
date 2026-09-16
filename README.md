@@ -1,6 +1,6 @@
-##Smart Study WordPiece Tokenizer from Scratch
+## Smart Study WordPiece Tokenizer from Scratch
 
- ##Project Overview
+ ## Project Overview
 
 This project implements a WordPiece Tokenizer from scratch using Python without using pre-built tokenization libraries.
 
@@ -10,7 +10,7 @@ This project demonstrates the complete WordPiece training and tokenization proce
 
 ---
 
- ##Objectives
+ ## Objectives
 
 The main objectives of this project are:
 
