@@ -1,6 +1,6 @@
-Smart Study WordPiece Tokenizer from Scratch
+##Smart Study WordPiece Tokenizer from Scratch
 
- Project Overview
+ ##Project Overview
 
 This project implements a WordPiece Tokenizer from scratch using Python without using pre-built tokenization libraries.
 
@@ -10,7 +10,7 @@ This project demonstrates the complete WordPiece training and tokenization proce
 
 ---
 
- Objectives
+ ##Objectives
 
 The main objectives of this project are:
 
@@ -29,7 +29,7 @@ The main objectives of this project are:
 
 ---
 
- What is WordPiece?
+ ## What is WordPiece?
 
 WordPiece breaks words into smaller subword units.
 
@@ -45,7 +45,7 @@ The tokenizer tries to find the longest subword available in the vocabulary.
 
 ---
 
- Dataset
+ ## Dataset
 
 The project uses a small custom training dataset containing study-related words.
 
@@ -63,7 +63,7 @@ The numbers represent the frequency of each word in the training data.
 
 ---
 
- Working Process
+ ## Working Process
 
 The project follows these steps:
 
@@ -95,7 +95,7 @@ Convert Tokens to IDs
 
 ---
 
- WordPiece Score
+ ## WordPiece Score
 
 The WordPiece score used in this project is:
 
@@ -115,7 +115,7 @@ Frequency-based| Considers individual token frequencies
 
 ---
 
- Technologies Used
+ ## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -126,7 +126,7 @@ No external NLP/tokenization library is required for the core WordPiece implemen
 
 ---
 
-Project Structure
+## Project Structure
 
 Smart-Study-WordPiece-Tokenizer/
 │
@@ -138,7 +138,7 @@ Smart-Study-WordPiece-Tokenizer/
 
 ---
 
- How to Run
+ ## How to Run
 
 Step 1: Install Python
 
@@ -166,7 +166,7 @@ Run each cell from top to bottom.
 
 ---
 
- Features
+## Features
 
 1. Initial Character Splitting
 
@@ -297,7 +297,7 @@ Another word may be divided into multiple subwords depending on the learned voca
 
 ---
 
- What Makes This Project Different?
+## What Makes This Project Different?
 
 This project is designed as a from-scratch educational implementation.
 
@@ -317,7 +317,7 @@ Therefore, the project demonstrates both the training side and the tokenization 
 
 ---
 
- Limitations
+ ## Limitations
 
 This is a small educational implementation and is not intended to replace production tokenizers used by large language models.
 
@@ -325,7 +325,7 @@ The training dataset is small, and the learned vocabulary is limited to the word
 
 ---
 
- Future Enhancements
+ ## Future Enhancements
 
 The project can be extended by:
 
@@ -341,7 +341,7 @@ The project can be extended by:
 
 ---
 
- Conclusion
+ ## Conclusion
 
 This project provides a simple and practical implementation of WordPiece Tokenization from scratch.
 
@@ -351,7 +351,7 @@ It provides a foundation for understanding the tokenization techniques used in m
 
 ---
 
- Project Type
+ ## Project Type
 
 Language: Python
 
